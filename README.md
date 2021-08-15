@@ -1,12 +1,18 @@
 
 
 👋 Hi there 👋
-
+<p>
+  <a href="https://80000coding.oopy.io/init6/suhshin" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Notion
+&logoColor=white"/></a>
+  <a href="mailto:rkskekzzz@kakao.com" target="_blank"><img src="https://img.shields.io/badge/rkskekzzz@kakao.com-FFCD00?style=flat-square&logo=Kakaotalk&logoColor=white"/></a>
+  <a href="https://www.instagram.com/sour_s.h/" target="_blank"><img src="https://img.shields.io/badge/suhshin-CB3F7C?style=flat-square&logo=Instagram&logoColor=white"/></a>
+</p>
 I'm Studying in 42Seoul Now. <br>
 Interested in **C**, **C++**, **Swift**
 <br>
 <br>
 Also in **Docker**, **SwiftUI**, **Unity** <br>
+
 Take a look at the community I created : [80000coding](https://80000coding.oopy.io)
 
 <br>
