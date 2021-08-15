@@ -4,10 +4,10 @@
 
 I'm Studying in 42Seoul Now.
 
-Interested in `C`, `C++`, `Swift`
+Interested in **C**, **C++**, **Swift**
 <br>
 <br>
-Also in `Docker`, `SwiftUI`, `Unity`
+Also in **Docker**, **SwiftUI**, **Unity**
 
 Take a look at the community I created : [80000coding](https://80000coding.oopy.io)
 
