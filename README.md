@@ -1,8 +1,21 @@
-### Hi there 👋
+
+
+👋 Hi there 👋
+
+I'm Studying in 42Seoul Now.
+
+Interested in `C`, `C++`, `Swift`
+<br>
+<br>
+Also in `Docker`, `SwiftUI`, `Unity`
+
+Take a look at the community I created : [80000coding](https://80000coding.oopy.io)
+
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkskekzzz&show_icons=true&theme=react)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkskekzzz&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkskekzzz&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **rkskekzzz/rkskekzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
