@@ -2,13 +2,11 @@
 
 👋 Hi there 👋
 
-I'm Studying in 42Seoul Now.
-
+I'm Studying in 42Seoul Now. <br>
 Interested in **C**, **C++**, **Swift**
 <br>
 <br>
-Also in **Docker**, **SwiftUI**, **Unity**
-
+Also in **Docker**, **SwiftUI**, **Unity** <br>
 Take a look at the community I created : [80000coding](https://80000coding.oopy.io)
 
 <br>
