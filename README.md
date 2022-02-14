@@ -11,11 +11,11 @@
 I'm Studying in 42Seoul Now.
 </p>
 
-Interested in **C**, **C++**, **Swift**
+Interested in **C**, **C++**, **Swift**, **React**
 
 <br>
 
-Also in **Docker**, **SwiftUI**, **Unity** <br>
+Also in **Docker**, **Unity** <br>
 
 Take a look at the community I created : [80000coding](https://80000coding.oopy.io)
 
