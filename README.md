@@ -11,7 +11,7 @@
 I'm Studying in 42Seoul Now.
 </p>
 
-Interested in **C**, **C++**, **Swift**, **React**
+Interested in **C++**, **Swift**, **React**, **TS/JS**
 
 <br>
 
