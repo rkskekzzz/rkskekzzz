@@ -8,7 +8,7 @@
   <a href="mailto:rkskekzzz@kakao.com" target="_blank"><img src="https://img.shields.io/badge/rkskekzzz@kakao.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 <p>
-I'm Studying in 42Seoul Now.
+I'm Studying in 👨🏻‍💻42Seoul Now && 🦁Likelion 10th
 </p>
 
 Interested in **C++**, **Swift**, **React**, **TS/JS**
