@@ -15,8 +15,6 @@ Interested in **C++**, **Swift**, **React**, **TS/JS**
 
 <br>
 
-Also in **Docker**, **Unity** <br>
-
 Take a look at the community I created : [80000coding](https://80000coding.oopy.io)
 
 <br>
