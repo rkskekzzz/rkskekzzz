@@ -15,7 +15,7 @@ Interested in **C++**, **Swift**, **React**, **TS/JS**
 
 <br>
 
-Take a look at the community I created : [80000coding](https://80000coding.oopy.io)
+Take a look at the community I created : [📚 팔만코딩경](https://80000coding.oopy.io)
 
 <br>
 
