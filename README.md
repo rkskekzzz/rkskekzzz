@@ -1,6 +1,12 @@
 
 <div align="center">
+
+<br/> 
+
 👋 Hi there 👋
+
+<br/>
+
 <p>
   <a href="https://42seoul.kr/seoul42/main/view" target="_blank"><img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white"/></a>
   <a href="https://80000coding.oopy.io/aboutme" target="_blank"><img src="https://img.shields.io/badge/BLOG-282828?style=flat-square&logo=Notion&logoColor=white"/></a>
@@ -12,14 +18,30 @@ I'm Studying in 👨🏻‍💻42Seoul && 🦁Likelion 10th
 </p>
 
 Interested in **C++**, **Swift**, **React**, **TS/JS**
-</div>
-<br>
-
-Take a look at the community I created : [📚 팔만코딩경](https://80000coding.oopy.io)
 
 <br>
+
+Take a look at the community I created
+<br>
+<br>
+[📚 팔만코딩경](https://80000coding.oopy.io)
+
+<br>
+
+Take a look at the community I created
+<br>
+
+[📅 Timong](https://timong.kr)
+
+<br>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkskekzzz&show_icons=true&theme=react)
+
+
+</div>
+
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkskekzzz&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
 
