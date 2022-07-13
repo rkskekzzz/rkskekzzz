@@ -1,5 +1,5 @@
 
-
+<div align="center">
 👋 Hi there 👋
 <p>
   <a href="https://42seoul.kr/seoul42/main/view" target="_blank"><img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white"/></a>
@@ -12,7 +12,7 @@ I'm Studying in 👨🏻‍💻42Seoul && 🦁Likelion 10th
 </p>
 
 Interested in **C++**, **Swift**, **React**, **TS/JS**
-
+</div>
 <br>
 
 Take a look at the community I created : [📚 팔만코딩경](https://80000coding.oopy.io)
