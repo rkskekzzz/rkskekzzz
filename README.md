@@ -3,7 +3,7 @@
 
 <br/> 
 
-👋 Hi there 👋
+### 👉 [About Me!](https://80000coding.oopy.io/aboutme) 👈
 
 <br/>
 
