@@ -28,7 +28,7 @@ Take a look at the community I created
 
 <br>
 
-Take a look at the community I created
+Take a look at the service I created
 <br>
 
 [📅 Timong](https://timong.kr)
