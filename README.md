@@ -42,8 +42,10 @@ Take a look at the service I created
   
 ## Stats
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkskekzzz&show_icons=true&theme=react)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkskekzzz&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkskekzzz&show_icons=true)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkskekzzz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=rkskekzzz)](https://solved.ac/rkskekzzz)
 
