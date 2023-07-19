@@ -22,7 +22,7 @@ Interested in **React**, **Next.js** **TS/JS**, **C++**, **Swift**,
 <br>
 <br>
 
-**Take a look at the service I created**
+**Take a look at the project I created**
 <br>
 
 [🍚 밥풀레이스](https://babplace.heyinsa.kr)
