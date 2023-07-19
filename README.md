@@ -27,7 +27,7 @@ Take a look at the service I created
 
 [🍚 밥풀레이스](https://babplace.heyinsa.kr)
   
-[🧩 Unsolved.wa](https://babplace.heyinsa.kr](https://chrome.google.com/webstore/detail/unsolvedwa/dgikgakkhcapbjbccbgpajlgjocmeddj?hl=ko))
+[🧩 Unsolved.wa](https://github.com/rkskekzzz/rkskekzzz/tree/main)
   
 [📅 Timong](https://timong.heyinsa.kr)
 
